@@ -6,6 +6,7 @@ This repository contains all the projects completed during my Python programming
 Each project is organized in its own folder:
 
 - **To-Do List** → A task manager using Python & SQLite.
+- **Rock-Paper-Scissors** → A simple CLI-based game.
 
 ## 🚀 Technologies Used
 - Python
