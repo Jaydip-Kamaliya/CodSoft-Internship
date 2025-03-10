@@ -23,7 +23,7 @@ Each project is organized in its own folder:
 ## 🛠️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CodSoft-Internship.git
+   git clone https://github.com/Jaydip-Kamaliya/CodSoft-Internship.git
 
 2. Navigate to any project folder and run the Python script.
 
