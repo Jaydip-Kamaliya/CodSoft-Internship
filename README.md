@@ -7,6 +7,7 @@ Each project is organized in its own folder:
 
 - **To-Do List** → A task manager using Python & SQLite.
 - **Rock-Paper-Scissors** → A simple CLI-based game.
+- **Calculator** → A basic calculator with arithmetic operations.
 
 ## 🚀 Technologies Used
 - Python
