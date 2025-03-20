@@ -8,6 +8,7 @@ Each project is organized in its own folder:
 - **To-Do List** → A task manager using Python & SQLite.
 - **Rock-Paper-Scissors** → A simple CLI-based game.
 - **Calculator** → A basic calculator with arithmetic operations.
+- **Password Generator** → A basic password generator with all characters.
 
 ## 🚀 Technologies Used
 - Python
