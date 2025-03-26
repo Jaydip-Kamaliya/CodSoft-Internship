@@ -9,6 +9,7 @@ Each project is organized in its own folder:
 - **Rock-Paper-Scissors** → A simple CLI-based game.
 - **Calculator** → A basic calculator with arithmetic operations.
 - **Password Generator** → A basic password generator with all characters.
+- **Contact Book** → A simple CLI-based contact manager using Python & SQLite.
 
 ## 🚀 Technologies Used
 - Python
@@ -20,7 +21,7 @@ Each project is organized in its own folder:
 - **Company:** CodSoft
 - **Internship Type:** Python Programming
 - **Duration:** One Month - 05/03/2025 to 05/04/2025
-- **Status:** Ongoing
+- **Status:** Completed
 
 ## 🛠️ How to Use
 1. Clone the repository:
